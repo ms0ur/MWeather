@@ -25,3 +25,6 @@ logs
 
 #videos
 *.mp4
+
+#config
+config.ts
